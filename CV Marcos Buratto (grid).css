@@ -16,38 +16,22 @@ h3 {
 
 @media (max-width: 1350px) {
     .main {
-        background-color:white;
         margin:0 11% 0 11%;
-        height: auto;
-        display: grid;
-        grid-template-columns: 1fr 67%;
     }
 
     @media (max-width: 1200px) {
         .main {
-            background-color:white;
             margin:0 8% 0 8%;
-            height: auto;
-            display: grid;
-            grid-template-columns: 1fr 67%;
         }
 
         @media (max-width: 1000px) {
             .main {
-                background-color:white;
                 margin:0 4% 0 4%;
-                height: auto;
-                display: grid;
-                grid-template-columns: 1fr 67%;
             }
 
             @media (max-width: 768px) {
                 .main {
-                    background-color:white;
                     margin: 0 0 0 0;
-                    height: auto;
-                    display: grid;
-                    grid-template-columns: 1fr 67%;
                 }
             }
         }
