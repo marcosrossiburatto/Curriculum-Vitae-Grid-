@@ -59,7 +59,7 @@ h3 {
 }
 
 .photo_marcos {
-    margin: 20% 0% 20% 25.1%;
+    margin: 20% 0 20% 25.1%;
     border-radius: 50%;
 }
 
@@ -234,7 +234,7 @@ h3 {
 .division_01 {
     border-width: 0;
     background-color: #fff;
-    margin-top: 0%;
+    margin-top: 0;
     margin-bottom: 1%;
     height: 0.25vw;
     width: 90%;
@@ -252,7 +252,7 @@ h3 {
 
 .right_class_body_color_goals {
     background-color: #D6EAF8;
-    margin: 0% 0% 0% 0%;
+    margin: 0 0 0 0;
     padding-bottom: 6%;
     height: auto;
     display: grid;
@@ -260,7 +260,7 @@ h3 {
 }
 
 .goals_p {
-    padding: 4% 5% 0% 5%;
+    padding: 4% 5% 0 5%;
     font-size: 2vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -296,7 +296,7 @@ h3 {
 
 .right_class_body_color {
     background-color: #fff;
-    margin: 0% 0% 0% 5%;
+    margin-left: 5%;
     padding-bottom: 4%;
     height: auto;
     display: grid;
@@ -304,7 +304,7 @@ h3 {
 }
 
 .qualifications_p {
-    padding: 10% 5% 5% 0%;
+    padding: 10% 5% 5% 0;
     font-size: 2vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -337,7 +337,7 @@ h3 {
 }
 
 .academic_p {
-    padding: 8% 5% 5% 0%;
+    padding: 8% 5% 5% 0;
     font-size: 1.86vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -371,7 +371,7 @@ h3 {
 }
 
 .therapeutic_p {
-    padding: 8% 5% 5% 0%;
+    padding: 8% 5% 5% 0;
     font-size: 1.77vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -381,7 +381,7 @@ h3 {
 }
 
 .therapeutic_p_01 {
-    padding: 3% 5% 5% 0%;
+    padding: 3% 5% 5% 0;
     font-size: 1.6vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -414,7 +414,7 @@ h3 {
 }
 
 .volunteer_p {
-    padding: 8% 5% 5% 0%;
+    padding: 8% 5% 5% 0;
     font-size: 1.9vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -447,7 +447,7 @@ h3 {
 }
 
 .travel_p {
-    padding: 8% 5% 5% 0%;
+    padding: 8% 5% 5% 0;
     font-size: 1.9vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -480,7 +480,7 @@ h3 {
 }
 
 .companies_p {
-    padding: 8% 5% 5% 0%;
+    padding: 8% 5% 5% 0;
     font-size: 1.9vw; 
     font-weight: 600; 
     text-align: justify; 
@@ -490,11 +490,15 @@ h3 {
 }
 
 .information_block_companies_sv {
-    margin:0 1% 3% 1%;
+    margin: 0 1% 3% 1%;
     height:fit-content;
     display: grid;
     grid-template-columns: 20% 78%;
     align-items: center;
+}
+
+.color_companies {
+    color: #11607c;
 }
 
 .companies_sv_01 {
@@ -543,7 +547,7 @@ h3 {
     color: #11607c;
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 0%;
+    margin-left: 0;
     text-align: left;
 }
 
@@ -680,7 +684,7 @@ h3 {
     color: #11607c;
     font-weight: 700;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 0%;
+    margin-left: 0;
     text-align: left;
 }
 
@@ -837,14 +841,14 @@ h3 {
 .division_02 {
     border-width: 0;
     background-color: #11607c;
-    margin-top: 0%;
+    margin-top: 0;
     margin-bottom: 2%;
     height: 0.25vw;
     width: 90%;
 }
 
 .right_class_end_page_color {
-    margin-top: 0%;
+    margin-top: 0;
     background-color: #11607c;
     padding-bottom: 10%;
     height: auto;
