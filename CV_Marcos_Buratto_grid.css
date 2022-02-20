@@ -8,34 +8,10 @@ h3 {
 
 .main {
     background-color:white;
-    margin:0 15% 0 15%;
+    margin:0 15% 0 45%;
     height: auto;
     display: grid;
     grid-template-columns: 1fr 67%;
-}
-
-@media (max-width: 1350px) {
-    .main {
-        margin:0 11% 0 11%;
-    }
-
-    @media (max-width: 1200px) {
-        .main {
-            margin:0 8% 0 8%;
-        }
-
-        @media (max-width: 1000px) {
-            .main {
-                margin:0 4% 0 4%;
-            }
-
-            @media (max-width: 768px) {
-                .main {
-                    margin: 0 0 0 0;
-                }
-            }
-        }
-    }    
 }
 
 .left_side {
